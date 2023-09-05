@@ -25,14 +25,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dosen/Muh. Dody Firmansyah, S.Kom., MMSI..md",
-                "mode": "preview",
+                "file": "Sistem Informasi/Mata Kuliah Sistem Informasi.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "cd84829ff6ade817",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistem Informasi/Semester 1/Organisasi dan Arsitektur Komputer/Organisasi dan Arsitektur Komputer.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "120ecd433b245310",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistem Informasi/Mata Kuliah Sistem Informasi.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "62519d3a64f14f7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistem Informasi/Semester 1/Organisasi dan Arsitektur Komputer/Organisasi dan Arsitektur Komputer.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dosen/Muh. Dody Firmansyah, S.Kom., MMSI..md",
+                "file": "Sistem Informasi/Semester 1/Organisasi dan Arsitektur Komputer/Organisasi dan Arsitektur Komputer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dosen/Muh. Dody Firmansyah, S.Kom., MMSI..md",
+                "file": "Sistem Informasi/Semester 1/Organisasi dan Arsitektur Komputer/Organisasi dan Arsitektur Komputer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dosen/Muh. Dody Firmansyah, S.Kom., MMSI..md"
+                "file": "Sistem Informasi/Semester 1/Organisasi dan Arsitektur Komputer/Organisasi dan Arsitektur Komputer.md"
               }
             }
           }
@@ -159,15 +195,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8541a112df313a7",
+  "active": "62519d3a64f14f7e",
   "lastOpenFiles": [
-    "Sistem Informasi/Semester 1/Pengenalan Sistem Informasi/Ekonomi Digital.md",
-    "Sistem Informasi/Semester 1/Pengenalan Sistem Informasi/Ekonomi Digital dan Pengantar Teknologi Informasi.md",
-    "Sistem Informasi/Semester 1/Pengenalan Sistem Informasi/Pengenalan Sistem Informasi.md",
-    "Sistem Informasi/Mata Kuliah Sistem Informasi.md",
-    "Mata Kuliah UIB.md",
-    "Mata Kuliah Wajib Umum/Mata Kuliah Wajib Umum.md",
+    "index.md",
+    "Dosen/Tony Tan, S.Kom., M.Kom..md",
     "Dosen/Muh. Dody Firmansyah, S.Kom., MMSI..md",
+    "Sistem Informasi/Mata Kuliah Sistem Informasi.md",
+    "Sistem Informasi/Semester 1/Organisasi dan Arsitektur Komputer/Organisasi dan Arsitektur Komputer.md",
+    "Untitled.md",
+    "Sistem Informasi/Semester 1/Organisasi dan Arsitektur Komputer",
+    "Sistem Informasi/Semester 1/Pengenalan Sistem Informasi/Pengenalan Sistem Informasi.md",
+    "Sistem Informasi/Semester 1/Pengenalan Sistem Informasi/Ekonomi Digital dan Pengantar Teknologi Informasi.md",
+    "Mata Kuliah UIB.md",
+    "Sistem Informasi/Semester 1/Pengenalan Sistem Informasi/Ekonomi Digital.md",
+    "Mata Kuliah Wajib Umum/Mata Kuliah Wajib Umum.md",
     "Dosen",
     "Sistem Informasi/Semester 1/Pengenalan Sistem Informasi/1.md",
     "Sistem.md",
