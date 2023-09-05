@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "359e800ee0959096",
+    "type": "split",
+    "children": [
+      {
+        "id": "1869c9526d403fa2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd448796501a08ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistem Informasi/Mata Kuliah Sistem Informasi.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e8541a112df313a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dosen/Muh. Dody Firmansyah, S.Kom., MMSI..md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "abf80989e0cb5143",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d8a7a6e795c3eb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d10366075840458",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "379b001c52d6462d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "file:",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e08ab77b5a0b9c8e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 218.5
+  },
+  "right": {
+    "id": "7d530f41d7263bee",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee272a07f530d3de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "726b74d44723c2df",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dosen/Muh. Dody Firmansyah, S.Kom., MMSI..md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ad144071920ad8c3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dosen/Muh. Dody Firmansyah, S.Kom., MMSI..md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "63814a0e1132dab3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e9eb1ef48fdb5d5c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dosen/Muh. Dody Firmansyah, S.Kom., MMSI..md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e8541a112df313a7",
+  "lastOpenFiles": [
+    "Sistem Informasi/Semester 1/Pengenalan Sistem Informasi/Ekonomi Digital.md",
+    "Sistem Informasi/Semester 1/Pengenalan Sistem Informasi/Ekonomi Digital dan Pengantar Teknologi Informasi.md",
+    "Sistem Informasi/Semester 1/Pengenalan Sistem Informasi/Pengenalan Sistem Informasi.md",
+    "Sistem Informasi/Mata Kuliah Sistem Informasi.md",
+    "Mata Kuliah UIB.md",
+    "Mata Kuliah Wajib Umum/Mata Kuliah Wajib Umum.md",
+    "Dosen/Muh. Dody Firmansyah, S.Kom., MMSI..md",
+    "Dosen",
+    "Sistem Informasi/Semester 1/Pengenalan Sistem Informasi/1.md",
+    "Sistem.md",
+    "Sistem Informasi/Semester 1",
+    "Mata Kuliah Wajib Umum/Agama Kristen",
+    "Mata Kuliah Wajib Umum",
+    "Sistem Informasi/Semester 1/Pengenalan Sistem Informasi",
+    "Sistem Informasi"
+  ]
+}
